@@ -1,0 +1,15 @@
+sort1 uses: Bubble Sort.
+
+How do you know?: It's the fastest across the board when the List is sorted.
+But then unexpectedly sometimes takes last place when reversed and random.
+This could only be explained by the Ω(n) lower bound and O(n²) upper bound.
+
+sort2 uses: Merge Sort.
+
+How do you know?: It's the fastest on average, regardless of whether the list is sorted, random or reversed.
+Albeit having the fastest time when sorted, followed by reversed and then random.
+
+sort3 uses: selection Sort.
+
+How do you know?: Takes last place when List is sorted.
+Then battles for second place with Bubble Sort when reversed and random.
